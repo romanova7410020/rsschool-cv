@@ -98,6 +98,7 @@ header{
     background: #F2785C;
     opacity: 0.7;
     height: 90px;
+    box-shadow: 0px 4px 4px rgba(13, 96, 111, 0.5);
 }
 .head-wrapper {
     display: flex;
@@ -124,11 +125,24 @@ header{
 .header-link:hover,.header-link:focus,.header-link:active {
     opacity: .75;
 }
+.form-login{
+  background: #0D606F;
+  position: absolute;
+width: 103px;
+height: 41px;
+left: 1217px;
+top: 25px;
+border:0;
+border-radius: 10px;
+color: #FFFFFF;
+}
+
+
 /* header styles end */
 
 /* intro styles start */
 .intro {
-    height: 100vh;
+    min-height: 100vh;
     background: url(../img/intro.png) no-repeat, center;
     background-size: cover;
     padding-top: 122px;
@@ -153,4 +167,68 @@ color: #FFFFFF;
 margin-left: 120px;
 max-width: 723px;
 padding-top: 80px;
+margin-bottom: 46px;
 }
+.search-form-info {
+  display: flex;
+  flex-wrap: wrap;
+}
+.search-form{
+  margin-left: 120px;
+  background: #FFFFFF;
+    opacity: 0.7;
+    height: 96px;
+    width: 892px;
+    border:none;
+    border-radius: 16px;
+
+}
+.search-form-field {
+  display: flex;
+align-items: center;
+font-family: 'Aleo';
+font-style: italic;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+padding-left: 41px;
+color: #F2785C;
+border: 0;
+margin-top: 32px;
+width: 560px;
+}
+.search-form-field::placeholder{
+  font-family: 'Aleo';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  color: #F2785C;
+  
+}
+.form-search-submit {
+  display:flex;
+  justify-content: center;
+  padding-top: 15px;
+  width: 228px;
+  height: 59px;
+  background: #0D606F;
+  opacity: 100%;
+  font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+color: #FFFFFF;
+border:0;
+border-radius: 10px;
+position: absolute;
+margin-top: 18px;
+margin-left: 646px;
+}
+.form-search-submit:hover,.form-search-submit:focus,.form-search-submit:active{
+background: #0d4b57;
+}
+/* intro styles end*/
+    
+
