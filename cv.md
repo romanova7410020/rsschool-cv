@@ -22,7 +22,6 @@ I’m currently working several small web projects. My goal is to learn everythi
 * React JS, Redux (intermediate level knowledge).
 * Version control: Git (remote service GitHub).
 * Module Bundlers: Gulp, Webpack.
-* C (basic knowledge), Python(basic knowledge) - Flask Framework( basic knowledge), SQLite(basic knowledge).
 * Windows OS, Linux(Ubuntu)
 * Figma(for web development)
 * Editors: Sublime, Brackets, VSCode, PyCharm community.
