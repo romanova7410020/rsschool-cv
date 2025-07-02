@@ -1,6 +1,8 @@
- **Romanova Nastassia**
+ **Romanova Nastassia** 
 ********* 
+##### Photo
 ![photo](/img/sims.png "photo")
+********* 
 ##### My Contact Info
 ********* 
 * Address: Mogilev, Belarus
@@ -9,11 +11,12 @@
 * LinkedIn: [romanova7410020](https://mail.google.com/mail/u/0/#inbox)
 * GitHub: [romanova7410020](https://mail.google.com/mail/u/0/#inbox)
 * CodePen: [romanova7410020](https://mail.google.com/mail/u/0/#inbox)
-* Telegram: [romanova7410020](https://mail.google.com/mail/u/0/#inbox)
-********* 
+* Telegram: [romanova7410020](https://mail.google.com/mail/u/0/#inbox) 
+
 ##### Summary
 ********* 
 I’m currently working several small web projects. My goal is to learn everything new and exciting. I love to code and coffee. I can(love) spend a lot of time doing what interests me. My core strengths are in problem solving and fast learning.I want to get knowledge and skills that will be enough for employment in a company.
+
 ##### Skills
 ********* 
 * HTML
@@ -25,6 +28,7 @@ I’m currently working several small web projects. My goal is to learn everythi
 * Windows OS, Linux(Ubuntu)
 * Figma(for web development)
 * Editors: Sublime, Brackets, VSCode, PyCharm community.
+
 ##### Code examples
 ********* 
 ```
@@ -43,6 +47,7 @@ function calculate(operation, num1, num2) {
     }
 }
 ``` 
+
 ##### Education
 ********* 
 * Rs School
@@ -50,6 +55,7 @@ function calculate(operation, num1, num2) {
 * BGSHA
   + blabla
 ##### Languages
+
 ********* 
 * Russian - native speaker.
 * English - A2
