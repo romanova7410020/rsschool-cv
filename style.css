@@ -1,5 +1,5 @@
 body {
-    font-family: "Lato", sans-serif;;
+    font-family: "Lato",sans-serif;;
     min-height: 100vh;
     margin: 0 auto;
     padding: 0;
@@ -9,14 +9,14 @@ body {
  }
 
 html {
-  scroll-behavior: smooth;
+scroll-behavior:smooth;
 }
 
  * {
   box-sizing: border-box;
 }
 
-.container {
+.container{
   max-width: 1440px;
   margin: 0 auto;
 }
