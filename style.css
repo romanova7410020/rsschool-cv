@@ -1,0 +1,162 @@
+body {
+    font-family: "Lato",sans-serif;;
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 0;
+     display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+ }
+
+html {
+scroll-behavior:smooth;
+}
+
+ * {
+  box-sizing: border-box;
+}
+
+.container{
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.nav-link {
+  padding: 0 10px;
+  line-height: 50px;
+  text-decoration: none;
+  color: #000000;
+   transition: 0.3s;
+   cursor: pointer
+}
+
+.nav-link:hover {
+  color: #002907;
+}
+
+.section {
+margin: 30px;
+}
+#profile {
+    display: flex;
+     flex-wrap: wrap;
+     gap: 20px;
+      justify-content: space-between;
+}
+
+h1{
+    font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 60px;
+}
+.profile-image{
+    width: 350px;
+    height: 400px;
+}
+.profession{
+    background: #000000;
+      background-size: auto;
+      padding: 20px;
+    color: azure;
+    width: 220px;
+    font-size: 20px;
+    align-items: center;
+}
+
+.profile-column{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+ align-items: center;
+}
+.visually-hidden {
+  position: absolute;
+  clip: rect(0 0 0 0);
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+}
+.contacts-list{
+     list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+}
+li.contacts-item{
+     font-family: "Lato", sans-serif;
+  font-weight: 900;
+}
+.contacts-link  {
+  padding: 0 70px;
+  line-height: 50px;
+  text-decoration: none;
+  color: #000000;
+   transition: 0.3s;
+   cursor: pointer;
+     font-weight: 500;
+}
+.line {
+  border-top: 2px solid #ccc;
+  width: 100%;
+}
+#box{
+display: flex;
+     flex-wrap: wrap;
+     gap: 20px;
+      justify-content: space-between;
+}
+.box-3item{
+    border: 2px solid #000;
+}
+.language-title{
+    margin: 30px;
+}
+.education, .languages, .code {
+    margin: 30px;
+}
+h2{
+     font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-size: 30px;
+}
+li {
+  margin-bottom: 10px;
+}
+.projects-link{
+  line-height: 30px;
+  text-decoration: none;
+  color: #000000;
+   transition: 0.3s;
+   cursor: pointer;
+     font-weight: 500;
+}
+.footer-items{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+      justify-content: end;
+}
+.logo_rs{
+    width: 50px;
+    height: 20px;
+}
+.footer_year{
+    margin: 0;
+}
+.footer-link{
+
+  text-decoration: none;
+  color: #000000;
+   transition: 0.3s;
+   cursor: pointer;
+     font-weight: 500;
+}
