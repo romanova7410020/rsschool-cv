@@ -1,10 +1,11 @@
- **Romanova Nastassia** 
-********* 
+ **Romanova Nastassia**
+==== 
 ##### Photo
-![photo](/img/sims.png "photo")
 ********* 
-##### My Contact Info
-********* 
+![photo](img\sims.png "photo")
+
+##### My Contact Info 
+*********
 * Address: Mogilev, Belarus
 * Phone: +375297410020
 * E-mail: [romanova7410020@gmail.com](https://mail.google.com/mail/u/0/#inbox)
@@ -54,8 +55,8 @@ function calculate(operation, num1, num2) {
     + blabla
 * BGSHA
   + blabla
-##### Languages
 
+##### Languages
 ********* 
 * Russian - native speaker.
 * English - A2
