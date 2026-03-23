@@ -1,0 +1,29 @@
+[33mbcd9c97[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrsschool-cv-html[m[33m, [m[1;31morigin/rsschool-cv-html[m[33m)[m  fix: delete whitespaces
+[33m8e487e6[m fix: trim whitespace
+[33m60a57e3[m fix: replacing single quotes with double quotes
+[33m2f5b154[m fix: delete whitespaces
+[33m0e072b1[m  feat: add new links
+[33mc6c0e3d[m feat: add new projects
+[33m1c3d4c8[m fix: errors in html file again
+[33m263a664[m :fix:errors in html file
+[33m77f18af[m fix: resolve issue and errors w3-validator
+[33mada3b86[m Resolve merge conflict: keep modified files
+[33m4aa954b[m :feat: add link in readme file
+[33m15a8411[m :feat: add footer
+[33mbcdff86[m :feat:add skills and project sections
+[33md3a8493[m :feat:add code example
+[33m7c200f0[m :feat:add sections summary, education, languages
+[33me718028[m feat:add header
+[33ma9de1f5[m[33m ([m[1;31morigin/gh-pages[m[33m)[m Merge pull request #3 from romanova7410020/revert-2-rsschool-cv-html
+[33m08f5a83[m Revert "HTML, CSS и Git"
+[33md5b9fef[m Merge pull request #2 from romanova7410020/rsschool-cv-html
+[33m82439ac[m feat: add style.css
+[33m191acd2[m feat: add html file
+[33m24353b0[m[33m ([m[1;32mgh-pages[m[33m)[m docs: fix cv files
+[33m39cc56a[m fix: fix cv and img files
+[33mb6221ee[m docs:fix cv file
+[33ma722757[m docs: add content in cv files
+[33m95ec135[m init: create img folder
+[33m7ff3218[m docs: add link in readme file
+[33m2d5a511[m docs:create cv file
+[33md1dbfdd[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Initial commit
